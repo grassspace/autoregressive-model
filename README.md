@@ -6,4 +6,4 @@
 
 pytorch_lightning 1.9
 
-`pip install pytorch_lightning==1.9`
+```pip install pytorch_lightning==1.9```
