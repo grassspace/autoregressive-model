@@ -3,6 +3,7 @@
 卒業論文**自己回帰型生成モデルを用いた前額面歯冠形状に基づく歯根形状予測**で使用したソースコードが格納されています．
 
 ![](figures/tooth20_79.9M.jpg)
+![](figures/learning_pixel_array.png)
 
 ## Requirement
 
