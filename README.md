@@ -4,6 +4,7 @@
 
 ![](figures/tooth20_79.9M.jpg)
 ![](figures/learning_pixel_array.png)
+![](figures/sampling_process.png)
 
 ## Requirement
 
