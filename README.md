@@ -9,9 +9,9 @@
 ## 実行環境
 
 Ubuntu 22.04.3 LTS  
-GPU NVIDIA RTX 3060
-GPU Memory 12GB
-pytorch_lightning 1.9
+GPU NVIDIA RTX 3060  
+GPU Memory 12GB  
+pytorch_lightning 1.9  
 
 ```copy
 pip install pytorch_lightning==1.9
